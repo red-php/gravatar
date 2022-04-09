@@ -13,5 +13,10 @@
         "php": "^7.2.5 || ^8.0",
         "ext-json": "*",
         "guzzlehttp/guzzle": "7.*"
+    },
+    "autoload": {
+      "psr-4": {
+        "Red\\Gravatar\\": "src"
+      }
     }
 }
