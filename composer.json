@@ -1,0 +1,17 @@
+{
+    "name": "redcomponents/gravatar",
+    "description": "Gravatar Component",
+    "type": "libray",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oskar Nizioł",
+            "role": "Maintainer"
+        },
+    ],
+    "require": {
+        "php": "^7.2.5 || ^8.0",
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "*"
+    }
+}
