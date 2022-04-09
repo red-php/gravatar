@@ -7,7 +7,7 @@
         {
             "name": "Oskar Nizioł",
             "role": "Maintainer"
-        },
+        }
     ],
     "require": {
         "php": "^7.2.5 || ^8.0",
